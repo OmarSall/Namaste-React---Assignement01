@@ -1,0 +1,18 @@
+{
+  "name": "namaste-react-assignement",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini with his student Omar Salloum",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Omar Salloum",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  }
+}
