@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is Namaste React by Akshay Saini with his student Omar Salloum",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "keywords": [],
@@ -14,5 +16,8 @@
   "dependencies": {
     "react": "^19.2.3",
     "react-dom": "^19.2.3"
-  }
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
 }
